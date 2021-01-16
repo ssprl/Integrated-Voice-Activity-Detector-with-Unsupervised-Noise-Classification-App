@@ -1,0 +1,4 @@
+#Wed Apr 17 13:53:00 CDT 2019
+base.0=/Users/nxt170030/Desktop/Codes/VAD_UNC_Android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

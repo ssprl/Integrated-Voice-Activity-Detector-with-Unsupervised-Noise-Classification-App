@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Wed Apr 17 13:53:00 CDT 2019
+7.path=lib/x86/libtensorflow_inference.so
+2.base=/Users/nxt170030/Desktop/Codes/VAD_UNC_Android/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+5.set=NATIVE_RESOURCE
+0.path=lib/armeabi-v7a/libtensorflow_inference.so
+2.baseType=DIRECTORY
+3.base=/Users/nxt170030/Desktop/Codes/VAD_UNC_Android/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+7.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.path=classes.dex
+4.base=/Users/nxt170030/Desktop/Codes/VAD_UNC_Android/app/build/intermediates/assets/debug
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=lib/armeabi-v7a/libSuperpoweredExample.so
+5.base=/Users/nxt170030/Desktop/Codes/VAD_UNC_Android/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+4.set=ASSET
+3.path=lib/arm64-v8a/libtensorflow_inference.so
+6.base=/Users/nxt170030/Desktop/Codes/VAD_UNC_Android/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=frozen_without_dropout.pb
+7.base=/Users/nxt170030/Desktop/Codes/VAD_UNC_Android/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/x86_64/libtensorflow_inference.so
+0.base=/Users/nxt170030/Desktop/Codes/VAD_UNC_Android/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/x86/libSuperpoweredExample.so
+1.base=/Users/nxt170030/Desktop/Codes/VAD_UNC_Android/app/build/intermediates/transforms/dexMerger/debug/0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
