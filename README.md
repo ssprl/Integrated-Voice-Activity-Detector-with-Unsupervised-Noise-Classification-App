@@ -2,7 +2,7 @@
 
 ## Video Demo
 
-https://www.utdallas.edu/ssprl/files/UnsupervisedNoiseClassifierApp-ART2Fusion.mp4?_=9
+https://labs.utdallas.edu/ssprl/files/2020/09/20UnsupervisedNoiseClassifierApp-ART2Fusion1.mp4
 
 
 ## License and Citation
